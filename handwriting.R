@@ -1,3 +1,4 @@
+install.packages("ggplot2","gganimate","babynames","hrbrthemes","gifski","png","gam","mgcv")
 library("ggplot2")
 library("gganimate")
 library("babynames")
